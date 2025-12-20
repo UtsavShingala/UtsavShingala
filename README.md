@@ -12,7 +12,7 @@ Alongside core software engineering, I actively explore **quantitative finance a
 
 - 🎯 **Target Roles:** Backend Engineer, SDE, Platform / Infra Engineer  
 - 🏗️ **Core Strength:** Backend systems, APIs, data handling, performance-oriented design  
-- 📈 **Secondary Interest:** FinTech, Quantitative Systems, ML for time-series  
+- 📈 **Secondary Interest:** FinTech, Quantitative Finance, Growth & Ops 
 
 ---
 
@@ -51,7 +51,7 @@ Alongside core software engineering, I actively explore **quantitative finance a
 
 ---
 
-#### 🔹 PanIndiaPass (Full-Stack, Backend-Heavy)
+#### 🔹 PanIndiaPass (Full-Stack)
 - Designed a **scalable event booking platform**
 - Backend built with **Node.js, Express, MongoDB**
 - Handled concurrent traffic during peak registrations  
@@ -61,7 +61,7 @@ Alongside core software engineering, I actively explore **quantitative finance a
 
 ---
 
-#### 🔹 Stock Price Prediction (Quant + ML)
+#### 🔹 Stock Price Prediction (Using Deep Learning)
 - Time-series forecasting using **LSTM & GRU**
 - Worked on **data preprocessing, sequence modeling, evaluation**
 - Improved baseline accuracy using proper validation metrics
@@ -85,7 +85,7 @@ Strong emphasis on **problem-solving and system-level thinking**.
 
 ### 📊 Quant & Finance (Secondary Focus)
 
-- Practical exposure to **financial markets & trading systems**
+- Practical exposure to **financial markets**
 - Experience with **time-series data, modeling, and evaluation**
 - Interested in the intersection of **engineering + finance**
 - Managing a **personal investment portfolio** with a research-driven approach
@@ -96,10 +96,10 @@ Strong emphasis on **problem-solving and system-level thinking**.
 
 ### 🏆 Achievements
 
-- **Meta Hacker Cup 2025** – Global Rank 7,324  
-- **IOQM Merit Awardee** (Mathematics Olympiad)  
-- **IYMC Bronze Honour**  
-- **JEE Advanced** – Top 6% nationwide  
+- **Meta Hacker Cup 2025** – Global Rank 7,282 among top Competitive Programmers
+- **JEE Advanced** – Top 6% nationwide 
+- **IOQM Merit Awardee** (Indian Olympiad Qualifier in Mathematics - pathway to IMO)  
+- **IYMC Bronze Honour** (International Youth Math Challenge)
 
 ---
 
@@ -116,11 +116,6 @@ Strong emphasis on **problem-solving and system-level thinking**.
 ### 🌐 Connect With Me
 
 - 📧 Email: **shingalautsav2101@gmail.com**
-- 💼 LinkedIn: [linkedin.com/in/utsav_shingala](https://linkedin.com/in/utsav_shingala)
-- 💻 GitHub: [github.com/utsavshingala](https://github.com/utsavshingala)
+- 💼 LinkedIn: [linkedin.com/in/utsav_shingala](https://www.linkedin.com/in/utsav-shingala-7924121ab/)
 - ⚔️ Codeforces: [codeforces.com/profile/utsav_shingala](https://codeforces.com/profile/utsav_shingala)
 - 🧩 LeetCode: [leetcode.com/utsav_shingala](https://leetcode.com/utsav_shingala)
-
----
-
-⭐ Always interested in **backend engineering problems, scalable systems, and real-world software challenges**.
