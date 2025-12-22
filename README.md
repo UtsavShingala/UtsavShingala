@@ -37,6 +37,8 @@ Alongside core software engineering, I actively explore **quantitative finance a
 - **Scalable Event Platform** – Backend APIs & concurrency (Node.js, MongoDB)
 - **Time-Series Forecasting** – LSTM/GRU on financial data
 
+**Resume** - https://drive.google.com/drive/folders/1Vk3cSN7U47j70QLwb2SdS0A9BDCHWVZ0
+
 ---
 
 
