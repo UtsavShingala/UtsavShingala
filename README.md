@@ -26,6 +26,9 @@ Alongside core software engineering, I actively explore **quantitative finance a
 
 **Tools & Infra** - Git & GitHub, Linux, Docker (basic), CI/CD fundamentals
 
+**Computer Science Foundations** - Data Structures & Algorithms, Operating Systems, Database Management Systems, Computer Networks, Object-Oriented Programming, Discrete Mathematics & Probability  
+Strong emphasis on **problem-solving and system-level thinking**.
+
 ---
 
 ### 🚀 Featured Projects
@@ -60,16 +63,7 @@ Alongside core software engineering, I actively explore **quantitative finance a
 
 ---
 
-### 🧠 Computer Science Foundations
 
-- Data Structures & Algorithms  
-- Operating Systems  
-- Database Management Systems  
-- Computer Networks  
-- Object-Oriented Programming  
-- Discrete Mathematics & Probability  
-
-Strong emphasis on **problem-solving and system-level thinking**.
 
 ---
 
