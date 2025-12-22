@@ -18,23 +18,13 @@ Alongside core software engineering, I actively explore **quantitative finance a
 
 ### 🛠️ Tech Stack (SDE / Backend Focus)
 
-**Languages**
-- C++, Python, JavaScript
+**Languages** - C++, Python, JavaScript
 
-**Backend & Systems**
-- FastAPI, Node.js, Express.js  
-- REST APIs, WebSockets, Async Systems  
-- MongoDB, MySQL  
-- In-memory data structures, concurrency basics
+**Backend & Systems** - FastAPI, Node.js, Express.js, REST APIs, WebSockets, Async Systems, MongoDB, MySQL, In-memory data structures, concurrency basics
 
-**Frontend (Working Knowledge)**
-- React, Next.js, HTML, CSS
+**Frontend (Working Knowledge)** - React, Next.js, HTML, CSS
 
-**Tools & Infra**
-- Git & GitHub  
-- Linux  
-- Docker (basic)  
-- CI/CD fundamentals
+**Tools & Infra** - Git & GitHub, Linux, Docker (basic), CI/CD fundamentals
 
 ---
 
