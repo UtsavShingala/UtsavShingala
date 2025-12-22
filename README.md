@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Utsav Shingala</h1>
-<h3 align="center">Backend Software Engineer | Systems & APIs | FinTech & Quant-Curious</h3>
+<h3 align="center">Software Development Engineer | Systems & APIs | FinTech & Quant-Curious</h3>
 
 ---
 
@@ -12,7 +12,7 @@ Alongside core software engineering, I actively explore **quantitative finance a
 
 - 🎯 **Target Roles:** Backend Engineer, SDE, Platform / Infra Engineer  
 - 🏗️ **Core Strength:** Backend systems, APIs, data handling, performance-oriented design  
-- 📈 **Secondary Interest:** FinTech, Quantitative Finance, Growth & Ops 
+- 📈 **Familiar With:** FinTech, Quantitative Finance, Growth & Ops
 
 ---
 
@@ -27,39 +27,15 @@ Alongside core software engineering, I actively explore **quantitative finance a
 **Tools & Infra** - Git & GitHub, Linux, Docker (basic), CI/CD fundamentals
 
 **Computer Science Foundations** - Data Structures & Algorithms, Operating Systems, Database Management Systems, Computer Networks, Object-Oriented Programming, Discrete Mathematics & Probability  
-Strong emphasis on **problem-solving and system-level thinking**.
+(Strong emphasis on **problem-solving and system-level thinking**)
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Featured Projects / Works
 
-#### 🔹 REG NMS Matching Engine (Backend / Systems)
-- Built a **low-latency exchange matching engine** inspired by real-world market infrastructure  
-- Implemented **Market, Limit, IOC, FOK orders** with **price–time FIFO fairness**
-- Designed **in-memory order book** using optimized data structures  
-- Asynchronous APIs with **FastAPI + WebSockets**
-- Focus on **correctness, determinism, and performance**
-
-**Tech:** Python, FastAPI, WebSockets, MongoDB
-
----
-
-#### 🔹 PanIndiaPass (Full-Stack)
-- Designed a **scalable event booking platform**
-- Backend built with **Node.js, Express, MongoDB**
-- Handled concurrent traffic during peak registrations  
-- Frontend with React / Next.js for clean UX
-
-**Tech:** Node.js, Express, MongoDB, React, Next.js
-
----
-
-#### 🔹 Stock Price Prediction (Using Deep Learning)
-- Time-series forecasting using **LSTM & GRU**
-- Worked on **data preprocessing, sequence modeling, evaluation**
-- Improved baseline accuracy using proper validation metrics
-
-**Tech:** Python, PyTorch / TensorFlow, Pandas
+- **Low-Latency Matching Engine** – Order book, FIFO fairness, async APIs (FastAPI, WebSockets)
+- **Scalable Event Platform** – Backend APIs & concurrency (Node.js, MongoDB)
+- **Time-Series Forecasting** – LSTM/GRU on financial data
 
 ---
 
@@ -81,7 +57,7 @@ Strong emphasis on **problem-solving and system-level thinking**.
 ### 🏆 Achievements
 
 - **Meta Hacker Cup 2025** – Global Rank 7,282 among top Competitive Programmers
-- **JEE Advanced** – Top 6% nationwide 
+- **JEE Advanced** – AIR 15123 (Top 6% nationwide)
 - **IOQM Merit Awardee** (Indian Olympiad Qualifier in Mathematics - pathway to IMO)  
 - **IYMC Bronze Honour** (International Youth Math Challenge)
 
