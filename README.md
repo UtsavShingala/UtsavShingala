@@ -68,5 +68,3 @@ Alongside core software engineering, I actively explore **quantitative finance a
 
 - 📧 Email: **shingalautsav2101@gmail.com**
 - 💼 LinkedIn: [linkedin.com/in/utsav_shingala](https://www.linkedin.com/in/utsav-shingala-7924121ab/)
-- ⚔️ Codeforces: [codeforces.com/profile/utsav_shingala](https://codeforces.com/profile/utsav_shingala)
-- 🧩 LeetCode: [leetcode.com/utsav_shingala](https://leetcode.com/utsav_shingala)
