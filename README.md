@@ -12,7 +12,7 @@ Alongside core software engineering, I actively explore **quantitative finance a
 
 - 🎯 **Target Roles:** Backend Engineer, SDE, Platform / Infra Engineer  
 - 🏗️ **Core Strength:** Backend systems, APIs, data handling, performance-oriented design  
-- 📈 **Familiar With:** FinTech, Quantitative Finance, Financial MArket (managing Personal Investment Portfolio), Growth & Ops
+- 📈 **Familiar With:** FinTech, Quantitative Finance, Financial Market (managing Personal Investment Portfolio), Growth & Ops
 
 ---
 
