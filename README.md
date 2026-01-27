@@ -41,10 +41,6 @@ Alongside core software engineering, I actively explore **quantitative finance a
 
 ---
 
-
-
----
-
 ### 🏆 Achievements
 
 - **Meta Hacker Cup 2025** – Global Rank 7,282 among top Competitive Programmers
