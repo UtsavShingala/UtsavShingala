@@ -54,15 +54,6 @@ Alongside core software engineering, I actively explore **quantitative finance a
 
 ---
 
-### 🤝 Leadership (Brief)
-
-- Overall Fest Coordinator – **Kaltarang’25** (Led 150+ members)  
-- Joint Secretary – Cultural Council  
-- Vice President – Design Club (GeeksforGeeks Chapter)
-
-> Leadership experience complements execution; engineering remains my core identity.
-
----
 
 ### 🌐 Connect With Me
 
