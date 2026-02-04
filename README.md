@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Utsav Shingala</h1>
+<h1 align="center">Hi 👋, I am Utsav Shingala</h1>
 <h3 align="center">Software Development | Systems & APIs | Fintech and Backend</h3>
 
 ---
@@ -44,10 +44,10 @@ Alongside core software engineering, I actively explore **quantitative finance a
 ### 🏆 Achievements
 
 - **Meta Hacker Cup 2025** – Global Rank 7,282 among top Competitive Programmers
-- **SIG Coding Assessment - CodeSignal** - Scored 416/600 (Susquehanna International Group)
+- **SIG Coding Assessment – CodeSignal** - Scored 416/600 (Susquehanna International Group)
 - **JEE Advanced** – AIR 15123 (Top 6% nationwide)
-- **IOQM Merit Awardee** (Indian Olympiad Qualifier in Mathematics - pathway to IMO)  
-- **IYMC Bronze Honour** (International Youth Math Challenge)
+- **IOQM Merit Awardee** – (Indian Olympiad Qualifier in Mathematics - pathway to IMO)  
+- **IYMC Bronze Honour** – (International Youth Math Challenge)
 
 ---
 
