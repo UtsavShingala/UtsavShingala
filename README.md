@@ -10,13 +10,13 @@ I enjoy designing **low-latency services, APIs, and system components** that are
 
 Alongside core software engineering, I actively explore **quantitative finance and machine learning**, applying engineering rigor to financial systems and data.
 
-- 🎯 **Target Roles:** Backend Engineer, SDE, Platform / Infra Engineer  
+- 🎯 **Target Roles:** Full Stack Engineer, Software Development Engineer
 - 🏗️ **Core Strength:** Backend systems, APIs, data handling, performance-oriented design  
 - 📈 **Familiar With:** FinTech, Quantitative Finance, Financial Market (managing Personal Investment Portfolio), Growth & Ops
 
 ---
 
-### 🛠️ Tech Stack (SDE / Backend Focus)
+### 🛠️ Tech Stack (SDE / Full Stack Focus)
 
 **Languages** - C++, Python, JavaScript
 
