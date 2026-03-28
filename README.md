@@ -1,58 +1,94 @@
 <h1 align="center">Hi 👋, I am Utsav Shingala</h1>
-<h3 align="center">Software Development | Systems & APIs | Backend | AI & LLMs </h3>
+<h3 align="center">Software Development | Systems & APIs | Backend | AI & LLMs</h3>
 
 ---
 
-### 👨‍💻 About Me
+Final-year Computer Science undergraduate focused on **backend engineering, low-latency systems, and data-intensive applications**.
 
-I am a **final-year Computer Science undergraduate** focused on **backend engineering, scalable systems, and data-driven applications**.  
-I enjoy designing **low-latency services, APIs, and system components** that are correct, efficient, and production-oriented.
+I build production-oriented systems with strong emphasis on **correctness, performance, and scalability** — from async APIs to in-memory architectures.
 
-Alongside core software engineering, I actively explore **quantitative finance and machine learning**, applying engineering rigor to financial systems and data.
-
-- 🎯 **Target Roles:** Full Stack Engineer, Software Development Engineer
-- 🏗️ **Core Strength:** Backend systems, APIs, data handling, performance-oriented design  
-- 📈 **Familiar With:** FinTech, Quantitative Finance, Financial Market (managing Personal Investment Portfolio), Growth & Ops
+Alongside core engineering, I explore **applied AI**, building systems using LLMs to solve real-world problems.
 
 ---
 
-### 🛠️ Tech Stack (SDE / Full Stack Focus)
-
-**Languages** - C++, Python, JavaScript
-
-**Backend & Systems** - FastAPI, Node.js, Express.js, REST APIs, WebSockets, Async Systems, MongoDB, MySQL, In-memory data structures, concurrency basics
-
-**Frontend (Working Knowledge)** - React, Next.js, HTML, CSS
-
-**Tools & Infra** - Git & GitHub, Linux, Docker (basic), CI/CD fundamentals
-
-**Computer Science Foundations** - Data Structures & Algorithms, Operating Systems, Database Management Systems, Computer Networks, Object-Oriented Programming, Discrete Mathematics & Probability  
-(Strong emphasis on **problem-solving and system-level thinking**)
+## 🎯 Target Roles
+- Software Development Engineer (SDE)
+- Full Stack Engineer
 
 ---
 
-### 🚀 Featured Projects / Works
-
-- **Low-Latency Matching Engine** – Order book, FIFO fairness, async APIs (FastAPI, WebSockets)
-- **Scalable Event Platform** – Backend APIs & concurrency (Node.js, MongoDB)
-- **Time-Series Forecasting** – LSTM/GRU on financial data
-
-**Resume** - https://drive.google.com/drive/folders/1Vk3cSN7U47j70QLwb2SdS0A9BDCHWVZ0
+## 🏗️ Core Strengths
+- Backend Systems & API Design  
+- Low-Latency & Performance-Oriented Systems  
+- Data Handling & System-Level Thinking  
+- Scalable Architecture & Concurrency  
 
 ---
 
-### 🏆 Achievements
+## 🛠️ Tech Stack
 
-- **Meta Hacker Cup 2025** – Global Rank 7,282 among top Competitive Programmers
-- **SIG Coding Assessment - CodeSignal** – Scored 416/600 (Susquehanna International Group)
-- **JEE Advanced** – AIR 15123 (Top 6% nationwide)
-- **IOQM Merit Awardee** – (Indian Olympiad Qualifier in Mathematics - pathway to IMO)  
-- **IYMC Bronze Honour** – (International Youth Math Challenge)
+**Languages:**  
+C++, Python, JavaScript  
+
+**Backend & Systems:**  
+FastAPI, Node.js, Express.js, REST APIs, WebSockets, Async Systems  
+MongoDB, MySQL, In-memory Data Structures  
+
+**Frontend (Working Knowledge):**  
+React, Next.js, HTML, CSS  
+
+**Tools & Infra:**  
+Git, GitHub, Linux, Docker (basic), CI/CD Fundamentals  
+
+**Applied AI:**  
+LLM-based systems, prompt-driven workflows, semantic matching  
 
 ---
 
+## 🚀 Featured Projects
 
-### 🌐 Connect With Me
+### ⚡ Low-Latency Matching Engine  
+- Built a central limit order book with **FIFO price-time matching**  
+- Designed in-memory architecture for **low-latency execution**  
+- Implemented async APIs using FastAPI & WebSockets  
+- Ensured deterministic trade execution & fairness constraints  
 
-- 📧 Email: **shingalautsav2101@gmail.com**
-- 💼 LinkedIn: [linkedin.com/in/utsav_shingala](https://www.linkedin.com/in/utsav-shingala-7924121ab/)
+---
+
+### 🤖 AI Resume Screening System  
+- Designed a modular pipeline for **resume ↔ job description matching**  
+- Implemented **LLM-based semantic evaluation beyond keyword filtering**  
+- Built dynamic scoring engine with adaptive weighting  
+- Developed explainable ranking system (strengths, gaps, insights)  
+
+---
+
+### 🎟️ Scalable Event Platform (PanIndiaPass)  
+- Built backend using Node.js, Express, MongoDB  
+- Designed APIs for booking, authentication, and workflows  
+- Handled concurrent users with optimized data flow  
+
+---
+
+## 🏆 Achievements
+- IICPC Global Codefest’26 – Ranked 4067 / 13,000+ participants (ICPC-style contest)  
+- iRage AlgoArena 2026 – Selected for next round (algorithmic & systems challenge)  
+- Meta Hacker Cup 2025 – Global Rank 7,282  
+- SIG CodeSignal – 416/600 (Susquehanna International Group)  
+- JEE Advanced – AIR 15123 (Top 6%)  
+- IOQM Merit Awardee  
+- IYMC Bronze Honour  
+
+---
+
+## 📊 Interests
+- Backend Systems & High-Performance Computing  
+- Scalable System Design  
+- Applied AI Systems (LLMs)  
+
+---
+
+## 🌐 Connect With Me
+📧 Email: shingalautsav2101@gmail.com  
+💼 LinkedIn: https://linkedin.com/in/utsav_shingala  
+📄 Resume: https://drive.google.com/drive/folders/1Vk3cSN7U47j70QLwb2SdS0A9BDCHWVZ0
