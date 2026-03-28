@@ -3,7 +3,7 @@
 
 ---
 
-Final-year Computer Science undergraduate focused on **backend engineering, low-latency systems, and data-intensive applications**.
+Final-year Computer Science undergraduate focused on **Software Development, Full Stack Engineering, and data-intensive applications**.
 
 I build production-oriented systems with strong emphasis on **correctness, performance, and scalability** — from async APIs to in-memory architectures.
 
@@ -14,12 +14,12 @@ Alongside core engineering, I explore **applied AI**, building systems using LLM
 ## 🎯 Target Roles
 - Software Development Engineer (SDE)
 - Full Stack Engineer
+- Backend Engineering 
 
 ---
 
 ## 🏗️ Core Strengths
-- Backend Systems & API Design  
-- Low-Latency & Performance-Oriented Systems  
+- Full Stack Systems, Performance-Oriented Systems & API Design  
 - Data Handling & System-Level Thinking  
 - Scalable Architecture & Concurrency  
 
@@ -27,21 +27,15 @@ Alongside core engineering, I explore **applied AI**, building systems using LLM
 
 ## 🛠️ Tech Stack
 
-**Languages:**  
-C++, Python, JavaScript  
+**Languages:**  C++, Python, JavaScript  
 
-**Backend & Systems:**  
-FastAPI, Node.js, Express.js, REST APIs, WebSockets, Async Systems  
-MongoDB, MySQL, In-memory Data Structures  
+**Backend & Systems:**  FastAPI, Node.js, Express.js, REST APIs, WebSockets, Async Systems, MongoDB, MySQL, In-memory Data Structures  
 
-**Frontend (Working Knowledge):**  
-React, Next.js, HTML, CSS  
+**Frontend (Working Knowledge):**  React, Next.js, HTML, CSS  
 
-**Tools & Infra:**  
-Git, GitHub, Linux, Docker (basic), CI/CD Fundamentals  
+**Tools & Infra:**  Git, GitHub, Linux, Docker (basic), CI/CD Fundamentals  
 
-**Applied AI:**  
-LLM-based systems, prompt-driven workflows, semantic matching  
+**Applied AI:**  LLM-based systems, prompt-driven workflows, semantic matching  
 
 ---
 
@@ -73,18 +67,11 @@ LLM-based systems, prompt-driven workflows, semantic matching
 ## 🏆 Achievements
 - IICPC Global Codefest’26 – Ranked 4067 / 13,000+ participants (ICPC-style contest)  
 - iRage AlgoArena 2026 – Selected for next round (algorithmic & systems challenge)  
-- Meta Hacker Cup 2025 – Global Rank 7,282  
-- SIG CodeSignal – 416/600 (Susquehanna International Group)  
-- JEE Advanced – AIR 15123 (Top 6%)  
-- IOQM Merit Awardee  
-- IYMC Bronze Honour  
-
----
-
-## 📊 Interests
-- Backend Systems & High-Performance Computing  
-- Scalable System Design  
-- Applied AI Systems (LLMs)  
+- Meta Hacker Cup 2025 – Global Rank 7,278 out of 13799 participants
+- CodeSignal (General Coding Assessment - GCA) – 416/600 (Susquehanna International Group)  
+- JEE Advanced – AIR 15123 (Top 6%)
+- IOQM Merit Awardee (Indian Olympiad Qualifier in Mathematics)
+- IYMC Bronze Honour (International Youth Math Challenge)  
 
 ---
 
