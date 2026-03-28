@@ -28,8 +28,7 @@ Alongside core engineering, I explore **applied AI**, building systems using LLM
 ## 🚀 Featured Projects
 
 ### ⚡ Low-Latency Matching Engine  
-- Built a central limit order book with **FIFO price-time matching**  
-- Designed in-memory architecture for **low-latency execution**  
+- Built a central limit order book with **FIFO price-time matching**   - Designed in-memory architecture for **low-latency execution**  
 - Implemented async APIs using FastAPI & WebSockets  
 - Ensured deterministic trade execution & fairness constraints  
 
