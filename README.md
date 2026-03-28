@@ -3,7 +3,7 @@
 
 ---
 
-Final-year Computer Science undergraduate focused on **Software Development, Full Stack Engineering, and data-intensive applications**.
+Final-year CSE undergrad focused on **Software Development, Full Stack Engineering, and data-intensive applications**.
 
 I build production-oriented systems with strong emphasis on **correctness, performance, and scalability** — from async APIs to in-memory architectures.
 
