@@ -3,9 +3,9 @@
 
 ---
 
-Final-year CSE undergrad focused on **Software Development, Full Stack Engineering, and data-intensive applications**.
+Final-year CSE undergraduate focused on **Software Development, Full Stack Engineering, and data-intensive applications**.
 
-I build production-oriented systems with strong emphasis on **correctness, performance, and scalability** — from async APIs to in-memory architectures.
+I build systems with strong emphasis on **correctness, performance, and scalability** — from async APIs to in-memory architectures.
 
 Alongside core engineering, I explore **applied AI**, building systems using LLMs to solve real-world problems.
 
