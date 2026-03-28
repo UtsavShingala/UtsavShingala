@@ -28,23 +28,19 @@ Alongside core engineering, I explore **applied AI**, building systems using LLM
 ## 🚀 Featured Projects
 
 ### ⚡ Low-Latency Matching Engine  
-- Built a central limit order book with **FIFO price-time matching**   - Designed in-memory architecture for **low-latency execution**  
-- Implemented async APIs using FastAPI & WebSockets  
-- Ensured deterministic trade execution & fairness constraints  
+- Built a central limit order book with **FIFO price-time matching** & Designed in-memory architecture for **low-latency execution**  
+- Implemented async APIs using FastAPI & WebSockets; Ensured deterministic trade execution & fairness constraints  
 
 ---
 
 ### 🤖 AI Resume Screening System  
 - Designed a modular pipeline for **resume ↔ job description matching**  
-- Implemented **LLM-based semantic evaluation beyond keyword filtering**  
-- Built dynamic scoring engine with adaptive weighting  
-- Developed explainable ranking system (strengths, gaps, insights)  
+- Implemented **LLM-based semantic evaluation beyond keyword filtering**; Built dynamic scoring engine with adaptive weighting; Developed explainable ranking system (strengths, gaps, insights)  
 
 ---
 
 ### 🎟️ Scalable Event Platform (PanIndiaPass)  
-- Built backend using Node.js, Express, MongoDB  
-- Designed APIs for booking, authentication, and workflows  
+- Built backend using Node.js, Express, MongoDB; Designed APIs for booking, authentication, and workflows  
 - Handled concurrent users with optimized data flow  
 
 ---
