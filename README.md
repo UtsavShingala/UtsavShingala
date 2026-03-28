@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I am Utsav Shingala</h1>
-<h3 align="center">Software Development | Systems & APIs | Fintech and Backend</h3>
+<h3 align="center">Software Development | Systems & APIs | Backend | AI & LLMs </h3>
 
 ---
 
