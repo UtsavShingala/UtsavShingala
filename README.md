@@ -11,20 +11,6 @@ Alongside core engineering, I explore **applied AI**, building systems using LLM
 
 ---
 
-## 🎯 Target Roles
-- Software Development Engineer (SDE)
-- Full Stack Engineer
-- Backend Engineering 
-
----
-
-## 🏗️ Core Strengths
-- Full Stack Systems, Performance-Oriented Systems & API Design  
-- Data Handling & System-Level Thinking  
-- Scalable Architecture & Concurrency  
-
----
-
 ## 🛠️ Tech Stack
 
 **Languages:**  C++, Python, JavaScript  
